@@ -75,10 +75,22 @@ Welcome to the Project Management App! This application is designed to help you 
    npm install
 
 3. Run the app locally:
-   ```
+      ```
    npm start
 
-Access the app at http://localhost:3000.   
+Access the app at http://localhost:3000. 
+
+
+![image](https://github.com/kaushik17tripathi/Project-management-app/assets/95939109/dd387c02-45a5-4235-8e7e-41f086a52672)
+![image](https://github.com/kaushik17tripathi/Project-management-app/assets/95939109/a256f676-acb9-4af6-afe7-8534b68a04d1)
+![image](https://github.com/kaushik17tripathi/Project-management-app/assets/95939109/eb12b92f-09f0-43e7-88a3-0a7a28d01707)
+![image](https://github.com/kaushik17tripathi/Project-management-app/assets/95939109/7018124c-5f25-4aaf-8853-edaede2f3cda)
+![image](https://github.com/kaushik17tripathi/Project-management-app/assets/95939109/d7507102-f53d-4597-b1b9-c0743dd4d5d1)
+
+
+
+
+  
 
 
    
